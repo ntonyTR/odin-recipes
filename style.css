@@ -1,0 +1,47 @@
+* {
+    background-color: rgb(231, 218, 201);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-link {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+
+.title {
+    background-color: azure;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 64px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#welcome,
+#TOP-credit {
+    text-align: center;
+    font-size: 24px;
+}
+
+a {
+    color: rgb(82, 21, 21);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#TOP-link {
+    font-size: 24px;
+}
+
+.credit {
+    font-family: Verdana, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    font-size: small;
+}
+
